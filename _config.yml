@@ -21,7 +21,7 @@ aseurl: "" # the subpath of your site, e.g. /blog
 url: "https://j-taka.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  j-taka
-
+facebook_username: jun.takamatsu.1
 
 # Build settings
 markdown: kramdown
