@@ -16,6 +16,7 @@ permalink: /research/archeology
 
 # Reference
 1. 世良 京太, Garcia Ricardez Gustavo Alfonso, 高松 淳, 小笠原 司, 吉村 和昭, 奥山 誠義, 小林 謙一, “古墳時代の甲冑の平面展開による比較”, 人文科学とコンピュータシンポジウム, pp. 309-314, 2018.
+2. 高松　淳, "甲冑研究における三次元データ解析の現状と可能性", 考古学ジャーナル, Vol. 771, pp. 10-13, 2022.
 
 # Links
 [成果報告](http://www.naist.jp/news/2018/12/005431.html)
