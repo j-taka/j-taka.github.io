@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="page-content">
+	<div class="wrapper">
+		<p><img src="./assets/img/takamatsu-sensei.jpg" alt="image" /></p>
+		<h2 id="jun-takamatsu-phd">Jun Takamatsu, Ph.D</h2>
+
+		<p>Associate Professor</p>
+
+		<p><a href="http://robotics.naist.jp/">Robotics Laboratory</a></p>
+
+		<p><a href="http://isw3.naist.jp/home-ja.html">Division of Information Science</a></p>
+
+		<p><a href="http://www.naist.jp">Nara Institute of Science and Technology (NAIST)</a></p>
+	</div>
+</div>
+
+<div class="post">
+
+	<h2 id="post-heading">Updates</h2>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
+
+
