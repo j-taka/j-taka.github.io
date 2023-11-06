@@ -4,7 +4,7 @@ title: Links
 permalink: /Links/
 ---
 
-# Affiliation
+# Previous affiliation
 
 - [Nara Institute of Science and Technology](http://www.naist.jp/)
 - [Division of Information Science](http://isw3.naist.jp/home-ja.html)
