@@ -19,7 +19,8 @@ permalink: /cv/
 -  2008.4 – 2021.5 Associate Professor, Nara Institute of Science and Technology (NAIST)
 	- 2012.2 – 2013.3 Visitor, Carnegie Mellon University
 	- 2018.7 – 2018.9 Visiting Researcher, Microsoft
--  2021.5 - Present Senior Researcher, Microsoft
+-  2021.5 - 2023.3 Senior Researcher, Microsoft
+-  2023.3 - Present Sr Research Scientist, Microsoft
 
 ## Publication
 
