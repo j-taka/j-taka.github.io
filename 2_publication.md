@@ -6,6 +6,28 @@ permalink: /publication/
 
 ## Journal papers
 
+1. Takuya Kiyokawa, Jun Takamatsu, and Shigeki Koyanaka: "Challenges for Future Robotic Sorters of Mixed Industrial Waste: A Survey",
+IEEE Transactions on Automation Science and Engineering (TASE), vol. 21, no 1, pp. 1023-1040, 2024.
+
+1. Tatsuya Sakuma, Takuya Kiyokawa, Takamitsu Matsubara, Jun Takamatsu, Takahiro Wada, and Tsukasa Ogasawara:
+"Jamming Gripper-Inspired Soft-Jig for Perceptive Parts-Fixings", IEEE Access, vol. 11, pp. 62187-62199, 2023.
+
+1. Tomoki Ishikura, Yuki Kitamura, Wataru Sato, Jun Takamatsu, Akishige Yuguchi, Sung-Gwo Cho, Ming Ding, Sakiko Yoshikawa, and Tsukasa Ogasawara: “Pleasant Stroke Touch on Human Back by a Human and a Robot”, Sensors, vol. 23, issue. 3, no. 1136, pp. 1-11, 2023.
+
+1. Tomoko Yui, Sung-Gwi Cho, Yuki Sato, Yasuaki Orita, Ming Ding, Jun Takamatsu, Takahiro Wada, and Tsukasa Ogasawara: “Evaluation of Hand-Scaling Skills of Dental Hygienist Students: Identification of Contact Between Hand-Scaler Blade Tip and Tooth Surface”, IEEE Access, vol. 10, pp. 120640-120649, 2022.
+
+1. Akishige Yuguchi, Takumi Nakamura, Mayuki Toyoda, Masayuki Yamada, Pattaraporn Tulathum, Mael Aubert, Gustavo Alfonso Garcia Ricardez, Jun Takamatsu and Tsukasa Ogasawara: “Toward robot-agnostic home appliance operation: a task execution framework using motion primitives, ontology, and GUI”, Advanced Robotics, vol. 36, no. 11, pp. 548-565, 2022.
+
+1. Takuya Kiyokawa, Hiroki Katayama, Yuya Tatsuta, Jun Takamatsu, and Tsukasa Ogasawara: “ Robotic Waste Sorter with Agile Manipulation and Quickly Trainable Detector”, IEEE Access, vol. 9, pp. 124616-124631, 2021
+
+1. Akishige Yuguchi, Tetsuya Sano, Gustavo Alfonso Garcia Ricardez, Jun Takamatsu, Atsushi Nakazawa and Tsukasa Ogasawara: “Evaluating imitation and rule-based behaviors of eye contact and blinking using an android for conversation”, Advanced Robotics, vol. 35, no. 15, pp. 907-918, 2021.
+
+1. Pedro Miguel Uriguen Eljuri, Gustavo Alfonso Garcia Ricardez, Nishanth Koganti, Jun Takamatsu and Tsukasa Ogasawara: “Combining a Monte Carlo Tree Search and a Feasibility Database to Plan and Execute Rearranging Tasks”, IEEE Access, vol. 9, pp. 21721-21734, 2021
+
+1. Naoki Shirakura, Takuya Kiyokawa, Hikaru Kumamoto, Jun Takamatsu and Tsukasa Ogasawara: “Collection of Marine Debris by Jointly Using UAV-UUV with GUI for Simple Operation”, IEEE Access, vol. 9, pp. 67432-67443, 2021.
+
+1. Kento Tariki, Takuya Kiyokawa, Tomoki Nagatani, Jun Takamatsu and Tsukasa Ogasawara: “Generating complex assembly sequences from 3D CAD models considering insertion relations”, Advanced Robotics, vol. 35, no. 6, pp. 337-348, 2021.
+
 1. Yuya Hakamata, Satoki Tsuichihara, Gustavo Alfonso Garcia Ricardez, Jun Takamatsu, and Tsukasa Ogasawara: “Pushing and pulling motion generation for humanoid robots using whole-body momentum control based on analytical inverse kinematics”, Advanced Robotics, vol. 34, no. 21-22, pp. 1442-1454, 2020.
 
 1. Tetsuya Kurasumi, Sung-Gwi Cho, Ming Ding, Gustavo Alfonso Garcia Ricardez, Masahiro Yoshikawa, Jun Takamatsu and Tsukasa Ogasawara: “Simultaneous Estimation of Upper Limb Pose and Joint Torque Based on Upper Arm Deformation”, IEEE Transactions on Medical Robotics and Bionics, vol. 2, no. 3, pp. 374-381, 2020.
