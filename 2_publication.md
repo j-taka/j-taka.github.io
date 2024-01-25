@@ -6,8 +6,14 @@ permalink: /publication/
 
 ## Journal papers
 
+1. Tomoki Ishikura, Wataru Sato, Jun Takamatsu, Akishige Yuguchi, Sung-Gwi Cho, Ming Ding, Sakiko Yoshikawa, and Tsukasa Ogasawara: "Delivery of pleasant stroke touch via robot in older adults", Frontiers in Psychology, Vol. 14, 2024. [[link](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1292178)]
+
+1. Daichi Saito, Kazuhiro Sasabuchi, Naoki Wake, Atsushi Kanehira, Jun Takamatsu, Hideki Koike, and Katsushi Ikeuchi: "Constraint-Aware Policy for Compliant Manipulation", Robotics, Vol. 13, No. 8, 2024. [[link](https://doi.org/10.3390/robotics13010008)]
+
 1. Takuya Kiyokawa, Jun Takamatsu, and Shigeki Koyanaka: "Challenges for Future Robotic Sorters of Mixed Industrial Waste: A Survey",
 IEEE Transactions on Automation Science and Engineering (TASE), vol. 21, no 1, pp. 1023-1040, 2024.
+
+1. Katsushi Ikeuchi, Naoki Wake N, Kazuhiro Sasabuchi K, and Jun Takamatsu: "Semantic constraints to represent common sense required in household actions for multimodal learning-from-observation robot", The International Journal of Robotics Research, 2003. [[link](https://journals.sagepub.com/doi/10.1177/02783649231212929)]
 
 1. Tatsuya Sakuma, Takuya Kiyokawa, Takamitsu Matsubara, Jun Takamatsu, Takahiro Wada, and Tsukasa Ogasawara:
 "Jamming Gripper-Inspired Soft-Jig for Perceptive Parts-Fixings", IEEE Access, vol. 11, pp. 62187-62199, 2023.
