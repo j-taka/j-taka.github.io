@@ -8,11 +8,7 @@ permalink: /Links/
 
 - [Nara Institute of Science and Technology](http://www.naist.jp/)
 - [Division of Information Science](http://isw3.naist.jp/home-ja.html)
-- [Robotics Laboratory](http://robotics.naist.jp/)
-
-# Collabrative Projects
-
-- [Computational tender-care science](http://www.ii.ist.i.kyoto-u.ac.jp/crest/wiki-e/)
+- [Robotics Laboratory](https://naist-robotics.github.io/)
 
 # Projects driven by students
 

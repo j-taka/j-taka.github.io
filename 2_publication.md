@@ -6,6 +6,12 @@ permalink: /publication/
 
 ## Journal papers
 
+1. Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu, and Katsushi Ikeuchi: "Open-Vocabulary Action Localization With Iterative Visual Prompting", IEEE Access, Vol. 13, pp. 56908-56917, 2025. 
+
+1. Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu, and Katsushi Ikeuchi: "GPT-4V(ision) for Robotics: Multimodal Task Planning From Human Demonstration", IEEE Robotics and Automation Letters, Vol. 9, No. 11, pp. 10567-10574, 2024.
+
+1. Sung-Gwi Cho, Muhammad Akmal Bin Mohammed Zaffir, Masahiro Yoshikawa, Jun Takamatsu and Takahiro Wada: "Influence of Forearm Postures on Hand-Wrist Gesture Recognition With Forearm Deformation Measurements", IEEE Transactions on Medical Robots and Bionics, Vol. 6, No. 2, pp. 652-661, 2024.
+
 1. Tomoki Ishikura, Wataru Sato, Jun Takamatsu, Akishige Yuguchi, Sung-Gwi Cho, Ming Ding, Sakiko Yoshikawa, and Tsukasa Ogasawara: "Delivery of pleasant stroke touch via robot in older adults", Frontiers in Psychology, Vol. 14, 2024. [[link](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1292178)]
 
 1. Daichi Saito, Kazuhiro Sasabuchi, Naoki Wake, Atsushi Kanehira, Jun Takamatsu, Hideki Koike, and Katsushi Ikeuchi: "Constraint-Aware Policy for Compliant Manipulation", Robotics, Vol. 13, No. 8, 2024. [[link](https://doi.org/10.3390/robotics13010008)]
@@ -13,20 +19,32 @@ permalink: /publication/
 1. Takuya Kiyokawa, Jun Takamatsu, and Shigeki Koyanaka: "Challenges for Future Robotic Sorters of Mixed Industrial Waste: A Survey",
 IEEE Transactions on Automation Science and Engineering (TASE), vol. 21, no 1, pp. 1023-1040, 2024.
 
-1. Katsushi Ikeuchi, Naoki Wake N, Kazuhiro Sasabuchi K, and Jun Takamatsu: "Semantic constraints to represent common sense required in household actions for multimodal learning-from-observation robot", The International Journal of Robotics Research, 2003. [[link](https://journals.sagepub.com/doi/10.1177/02783649231212929)]
+1. Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu, and Katsushi Ikeuchi: "ChatGPT Empowered Long-Step Robot Control in Various Environments: A Case Application", IEEE Access, Vol. 11, pp. 95060-95078, 2023.
+
+1. Katsushi Ikeuchi, Naoki Wake N, Kazuhiro Sasabuchi K, and Jun Takamatsu: "Semantic constraints to represent common sense required in household actions for multimodal learning-from-observation robot", The International Journal of Robotics Research, 2023. [[link](https://journals.sagepub.com/doi/10.1177/02783649231212929)]
 
 1. Tatsuya Sakuma, Takuya Kiyokawa, Takamitsu Matsubara, Jun Takamatsu, Takahiro Wada, and Tsukasa Ogasawara:
 "Jamming Gripper-Inspired Soft-Jig for Perceptive Parts-Fixings", IEEE Access, vol. 11, pp. 62187-62199, 2023.
 
 1. Tomoki Ishikura, Yuki Kitamura, Wataru Sato, Jun Takamatsu, Akishige Yuguchi, Sung-Gwo Cho, Ming Ding, Sakiko Yoshikawa, and Tsukasa Ogasawara: “Pleasant Stroke Touch on Human Back by a Human and a Robot”, Sensors, vol. 23, issue. 3, no. 1136, pp. 1-11, 2023.
 
+1. 湯口彰重, 豊田真行, 趙崇貴, 吉野幸一郎, 高松淳, 中澤篤志, 小笠原司: “曲面板を用いた赤外線漏れ全反射方式でのユマニチュードの触れ始めの解析のための接触面情報の取得”, 日本ロボット学会誌, vol. 41, no. 10, pp. 893-896, 2023.
+
+1. Tatsuhiro Wakayama, Eri Fujiura, Mari Yamaguchi, Naoki Yoshida, Tomoaki Inoue, Hiroki Ikeuchi, Masaki Yamamoto, Lotfi El Hafi, Gustavo A. Garcia Ricardez, Jun Takamatsu, Tadahiro Taniguchi and Tsukasa Ogasawara: "Versatile Cleaning Service Robot Based on a Mobile Manipulator with Tool Switching for Liquids and Garbage Removal in Restrooms", Advanced Robotics, Vol. 36, No. 17-18, pp. 967-981, 2022.
+
 1. Tomoko Yui, Sung-Gwi Cho, Yuki Sato, Yasuaki Orita, Ming Ding, Jun Takamatsu, Takahiro Wada, and Tsukasa Ogasawara: “Evaluation of Hand-Scaling Skills of Dental Hygienist Students: Identification of Contact Between Hand-Scaler Blade Tip and Tooth Surface”, IEEE Access, vol. 10, pp. 120640-120649, 2022.
+
+1. Pattaraporn Tulathum, Bunyapon Usawalertkamol, Gustavo Alfonso Garcia Ricardez, Jun Takamatsu, Tsukasa Ogasawara, and Kenichi Matsumoto: "Robot Behavior Debugger for Non-Expert Users in Convenience Stores using Behavior Trees", Advanced Robotics, vol. 36, no. 17-18, pp. 951-966, 2022.
+
+1. Gustavo A. Garcia Ricardez, Pedro M. Uriguen Eljuri, Yuta Kamemura, Shiori Yokota, Noriyuki Kugou, Yoshitatsu Asama, Ziyu Wang, Hikaru Kumamoto, Kotaro Yoshimoto, Wai Y Chan, Tomoki Nagatani, Pattaraporn Tulathum, Bunyapon Usawalertkamol, Lotfi El Hafi, Hiroki Ikeuchi, Masaki Yamamoto, Jun Takamatsu, Tadahiro Taniguchi and Tsukasa Ogasawara: "Autonomous Service Robot for Human-Aware Restock, Straightening and Disposal Tasks in Retail Automation", Advanced Robotics, vol. 36, no. 17-18, pp. 936-950, 2022.
+
+1. 吉本幸太郎, 清川拓哉, 高松淳, 和田隆広, 小笠原司: "リサイクルロボットのための熱画像による密集した容器包装廃棄物の分類", 日本ロボット学会誌, vol. 40, no. 6, pp. 538-541, 2022. 
 
 1. Akishige Yuguchi, Takumi Nakamura, Mayuki Toyoda, Masayuki Yamada, Pattaraporn Tulathum, Mael Aubert, Gustavo Alfonso Garcia Ricardez, Jun Takamatsu and Tsukasa Ogasawara: “Toward robot-agnostic home appliance operation: a task execution framework using motion primitives, ontology, and GUI”, Advanced Robotics, vol. 36, no. 11, pp. 548-565, 2022.
 
 1. Takuya Kiyokawa, Hiroki Katayama, Yuya Tatsuta, Jun Takamatsu, and Tsukasa Ogasawara: “ Robotic Waste Sorter with Agile Manipulation and Quickly Trainable Detector”, IEEE Access, vol. 9, pp. 124616-124631, 2021
 
-1. Akishige Yuguchi, Tetsuya Sano, Gustavo Alfonso Garcia Ricardez, Jun Takamatsu, Atsushi Nakazawa and Tsukasa Ogasawara: “Evaluating imitation and rule-based behaviors of eye contact and blinking using an android for conversation”, Advanced Robotics, vol. 35, no. 15, pp. 907-918, 2021.
+1. Akishige Yuguchi, Tetsuya Sano, Gustavo Alfonso Garcia Ricardez, Jun Takamatsu, Atsushi Nakazawa and Tsukasa Ogasawara: "Evaluating imitation and rule-based behaviors of eye contact and blinking using an android for conversation", Advanced Robotics, vol. 35, no. 15, pp. 907-918, 2021.
 
 1. Pedro Miguel Uriguen Eljuri, Gustavo Alfonso Garcia Ricardez, Nishanth Koganti, Jun Takamatsu and Tsukasa Ogasawara: “Combining a Monte Carlo Tree Search and a Feasibility Database to Plan and Execute Rearranging Tasks”, IEEE Access, vol. 9, pp. 21721-21734, 2021
 
@@ -137,6 +155,26 @@ IEEE Transactions on Automation Science and Engineering (TASE), vol. 21, no 1, p
 1. Koichi Ogawara, Jun Takamatsu, Hiroshi Kimura, Katsushi Ikeuchi, “Acquisition of A Symbolic Manipulation Task Model by Attention Point Analysis,” Advanced Robotics , Vol. 17, No. 10, pp. 1073 – 1091, 2003.
 
 ## International Conference & Workshop
+
+1. Satoki Tsuichihara, Masayuki Yamada, Kaito Hara, Gustavo A. Garcia Ricardez, Akishige Yuguchi, Jun Takamatsu, Takahiro Wada, Yasutake Takahashi and Tsukasa Ogasawara: "Holding Strategy Using Torso to Enable Humanoid Robots to Carry Heavier Objects", Proceedings of 2024 IEEE/SICE International Symposium on System Integration (SII 2024), pp. 1464-1469, 2024.
+
+1. Daichi Saito, Atsushi Kanehira, Kazuhiro Sasabuchi, Naoki Wake, Jun Takamatsu, Hideki Koike and Katsushi Ikeuchi: "APriCoT: Action Primitives based on Contact-state Transition for In-Hand Tool Manipulation", Proceedings of 2024 IEEE-RAS International Conference on Humanoid Robots (Humanoids 2024), pp. 827-834, 2024.
+
+1. Akishige Yuguchi, Mayuki Toyoda, Sung-Gwi Cho, Atsushi Nakazawa, Jun Takamatsu, Koichiro Yoshino and Tsukasa Ogasawara, "Capturing Contact Surfaces by a Frustrated Total Internal Reflection System Using a Curved Plate for Comparison of the Beginning of Touching Motions by Humanitude Experts and Novices", Proceedings of 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024), pp. 679-686, 2024.
+
+1. Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu and Katsushi Ikeuchi: "Interactive Task Encoding System for Learning-from-Observation", Proceedings of 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2023), pp. 1061-1066, 2023.
+
+1. Mayuka Tsuji, Yuki Fujimura, Takuya Funatomi, Yasuhiro Mukaigawa, Tetsuro Morimoto, Takeshi Oishi, Jun Takamatsu and Katsushi Ikeuchi: "Influence of Forearm Postures on Hand-Wrist Gesture Recognition With Forearm Deformation Measurements", 2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), pp. 1663-1671, 2023.
+
+1. Tatsuhiro Wakayama, Gustavo Alfonso Garcia Ricardez, Lotfi El Hafi and Jun Takamatsu: "6D-Pose Estimation for Manipulation in Retail Robotics using the Inference-embedded OAK-D Camera", Proceedings of 2022 IEEE/SICE International Symposium on System Integration (SII 2022), pp. 1046-1051, 2022.
+
+1. Iori Yanaokura, Naoki Wake, Kazuhiro Sasabuchi, Riku Arakawa, Kei Okada, Jun Takamatsu,Masayuki Inaba and Katsushi Ikeuchi: "A Multimodal Learning-from-Observation Towards All-at-once Robot Teaching using Task Cohesion", Proceedings of 2022 IEEE/SICE International Symposium on System Integration (SII 2022), pp. 367-374, 2022.
+
+1. Pattaraporn Tulathum, Bunyapon Usawalertkamol, Gustavo Alfonso Garcia Ricardez, Jun Takamatsu, Tsukasa Ogasawara and Kenichi Matsumoto: "Human-Robot Interaction System for Non-Expert Users in Convenience Stores using Behavior Trees", Proceedings of 2022 IEEE/SICE International Symposium on System Integration (SII 2022), pp. 1072-1077, 2022. 
+
+1. Daichi Saito, Kazuhiro Sasabuchi, Naoki Wake, Jun Takamatsu, Hideki Koike and Katsushi Ikeuchi: "Task-Grasping from a Demonstrated Human Strategy", Proceedings of 2022 IEEE-RAS International Conference on Humanoid Robots (Humanoids 2022), pp. 880-887, 2022.
+
+1. Genki Nagamatsu, Takaki Ikeda, Takafumi Iwaguchi, Diego Thomas, Jun Takamatsu and Hiroshi Kawasaki: "Self-calibration of multiple-line-lasers based on coplanarity and Epipolar constraints for wide area shape scan using moving camera", Proceedings of 2022 26th International Conference on Pattern Recognition (ICPR 2022), pp. 3959-3965, 2022.
 
 1. Hiroki Katayama, Takuya Kiyokawa, Jun Takamatsu and Tsukasa Ogasawara: “Azimuth Angle Estimation Based on Sound Wave Reflection for Mirrors and Transparent Objects”, Proceedings of the 2021 IEEE/SICE International Symposium on System Integration (SII 2021), TuC2.2, 2021.
 

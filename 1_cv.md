@@ -28,6 +28,12 @@ Please see the [following link](../publication/)
 
 ## Award
 
+- 2024 Best Oral Presentation Award
+	- D. Saito, A. Kanehira, K. Sasabuchi, N. Wake, J. Takamatsu, H. Koike and K. Ikeuchi: "APriCoT: Action Primitives based on Contact-state Transition for In-Hand Tool Manipulation", at IEEE-RAS Inter. Conf. on Humanoid Robots (Humanoids 2024), 2024
+
+- 2024 分野融合研究優秀表彰
+	- 一般社団法人　日本機械学会　ロボティクス・メカトロニクス部門
+
 - 2017 Finalist of Best Paper in Biomimetics Award
 	- A. Yuguchi, G. A. G. Ricardez, M. Ding, J. Takamatsu and T. Ogasawara: “Gaze Calibration for Human-Android Eye Contact Using a Single Camera”, Proceedings of the 2017 IEEE International Conference on Robotics and Biomimetics (ROBIO 2017), pp. 883-888, 2017. 
 
