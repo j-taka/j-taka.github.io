@@ -5,7 +5,7 @@ permalink: /Links/
 ---
 
 # Previous affiliation
-
+- [Applied Robotics Research, Microsoft](https://www.microsoft.com/en-us/research/group/applied-robotics-research/)
 - [Nara Institute of Science and Technology](http://www.naist.jp/)
 - [Division of Information Science](http://isw3.naist.jp/home-ja.html)
 - [Robotics Laboratory](https://naist-robotics.github.io/)
