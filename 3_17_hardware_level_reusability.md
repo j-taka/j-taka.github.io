@@ -16,6 +16,16 @@ We propose the system design considering reusability when changing a robot. To d
 <br>
 Interstate transitions
 </center>
+<br>
+<center>
+<video controls>
+  <source src="../assets/mov/HWLR/skills/intra_trans.webm" width="400">
+  <source src="../assets/mov/HWLR/skills/intra_trans.mp4" width="400">
+</video>
+<br>
+Intrastate transitions
+</center>
+<br>
 
 # From demonstration to robot execution
 In each demonstration, the sequence of tasks with skill parameters is obtained from the human demonstration. And every robot shares the same task sequence and reproduce the same task sequence regardless of the robot. Every Video of robot execution is played three times faster.   
